@@ -729,26 +729,21 @@ textarea.form-control {
   padding-top:15px;
 }
 .contact-section .btn {
-  /* width:100%; */
-  margin-left: auto;
-  margin-right: auto;
+  width:100%;
 }
 .contact-box {
-  text-align:center;
+  text-align:left;
 }
 .contact-box h4 {
   font-size:24px;
-  /* align-content: center; */
 }
 .contact-box h4:after {
   content:'';
   display:block;
-  max-width: 500px;
-  margin: auto;
-  /* width:50px; */
+  width:50px;
   height:2px;
   background:#fff;
-  /* margin:12px 0; */
+  margin:12px 0;
 }
 .contact-row {
   display: -webkit-box;
