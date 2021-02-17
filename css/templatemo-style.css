@@ -729,7 +729,9 @@ textarea.form-control {
   padding-top:15px;
 }
 .contact-section .btn {
-  width:100%;
+  /* width:100%; */
+  max-width: 500px;
+  margin: auto;
 }
 .contact-box {
   text-align:left;
