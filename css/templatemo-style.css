@@ -730,9 +730,10 @@ textarea.form-control {
 }
 .contact-section .btn {
   width:100%;
+  box-align:center;
 }
 .contact-box {
-  text-align:center;
+  text-align:left;
 }
 .contact-box h4 {
   font-size:24px;
