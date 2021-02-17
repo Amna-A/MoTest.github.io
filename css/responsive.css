@@ -308,9 +308,9 @@
 		font-size:18px;
 	}
 	.contact-box {
-		margin-top: 30px;
+		margin: 0 auto;
 		height:auto;
-		text-align: center;
+
 	}
 	.footer-right {
 		width:100%;
