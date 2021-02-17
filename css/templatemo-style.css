@@ -730,15 +730,13 @@ textarea.form-control {
 }
 .contact-section .btn {
   width:100%;
+  margin: 0 auto;
 }
 .contact-box {
   text-align:left;
-  margin: 0 auto;
- 
 }
 .contact-box h4 {
   font-size:24px;
-  margin: 0 auto;
   /* align-content: center; */
 }
 .contact-box h4:after {
@@ -747,7 +745,7 @@ textarea.form-control {
   width:50px;
   height:2px;
   background:#fff;
-  margin: 0 auto;
+  margin:12px 0;
 }
 .contact-row {
   display: -webkit-box;
