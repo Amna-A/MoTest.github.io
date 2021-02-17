@@ -733,10 +733,10 @@ textarea.form-control {
 }
 .contact-box {
   text-align:left;
-  box-align:center;
 }
 .contact-box h4 {
   font-size:24px;
+  align-content: center;
 }
 .contact-box h4:after {
   content:'';
