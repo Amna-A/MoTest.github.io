@@ -736,7 +736,7 @@ textarea.form-control {
 }
 .contact-box h4 {
   font-size:24px;
-  align-content: center;
+  /* align-content: center; */
 }
 .contact-box h4:after {
   content:'';
