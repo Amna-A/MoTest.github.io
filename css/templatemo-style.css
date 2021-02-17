@@ -766,7 +766,9 @@ textarea.form-control {
   font-weight: 700;
 }
 .contact-row i {
-  width:55px;
+  /* width:55px; */
+  margin-left: auto;
+  margin-right: auto;
   font-size: 30px;
   display:block;
 }
