@@ -807,6 +807,7 @@ textarea.form-control {
 .imgContainer{
   /* float:left; */
   margin: 0;
+  padding: 2px;
   display: inline-block;
 }
 .skills-box .item img {
@@ -820,10 +821,7 @@ textarea.form-control {
   padding-bottom: 3cm;
   padding-top: 3cm;
 } */
-.skills-box {
-  margin:0 auto;
-  padding: 0;
-}
+
 /* .skills-row span {
   display: inline-block;
   width: 50px;
