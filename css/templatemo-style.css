@@ -796,9 +796,9 @@ textarea.form-control {
 /*==============================================
 10. SKILLS BLOCK CSS
 ================================================*/
-.skills-row {
+/* .skills-row {
   margin-top: 80px;
-}
+} */
 /* .skill-item {
   border-bottom: 1px solid rgba(250,250,250,0.1);
   margin-bottom: 50px;
@@ -809,15 +809,14 @@ textarea.form-control {
   margin:12px 0;
   display: inline-block;
 }
-.imgContainer .item p {
+/* .imgContainer .item p {
   padding-left: 3cm;
-  padding-right: 3cm;;
-  padding-bottom: 3cm;;
-  padding-top: 3cm;;
-}
-.skills-box :after{
-  bottom: 0;
-  margin: auto;
+  padding-right: 3cm;
+  padding-bottom: 3cm;
+  padding-top: 3cm;
+} */
+.skills-box p:last-child {
+  margin:0;
 }
 /* .skills-row span {
   display: inline-block;
