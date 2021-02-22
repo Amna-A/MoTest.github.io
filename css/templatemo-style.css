@@ -809,11 +809,11 @@ textarea.form-control {
   margin:12px 0;
   display: inline-block;
 }
-.imgContainer .item p,a {
-  padding-left: 10em; 
-  padding-right: 10em;
-  padding-bottom: 10em;
-  padding-top: 10em;
+.imgContainer .item p {
+  padding-left: 3cm;
+  padding-right: 3cm;;
+  padding-bottom: 3cm;;
+  padding-top: 3cm;;
 }
 .skills-box :after{
   bottom: 0;
