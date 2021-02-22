@@ -381,15 +381,16 @@
 		font-size:14px;
 		padding:4px 15px;
 	}
-	.skill-item {
+	.skill-box {
 	  border-bottom: 1px solid rgba(250,250,250,0.1);
 	  margin-bottom: 20px;
 	  padding-bottom: 20px;
 	}
+	/*
 	.skills-row h6 {
 	  text-align: left;
 	  margin-bottom: 30px;
-	}
+	} */
 	/* .skill-bar {
 	  width: 100%;
 	  height: 6px;
