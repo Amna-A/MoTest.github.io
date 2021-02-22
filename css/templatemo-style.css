@@ -532,8 +532,10 @@ a#logo {
   -webkit-transition: all 0.5s ease;
   transition: all 0.5s ease;
 }
-.service-box a:hover{
+.service-box:hover a{
+  text-decoration: solid;
   color: rgb(250, 126, 10);
+  
 }
 .service-icon {
   display:block;
