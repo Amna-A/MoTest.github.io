@@ -806,7 +806,7 @@ textarea.form-control {
 } */
 .imgContainer{
   /* float:left; */
-  margin:12px 0;
+  margin: 0;
   display: inline-block;
 }
 /* .imgContainer .item p {
@@ -815,7 +815,7 @@ textarea.form-control {
   padding-bottom: 3cm;
   padding-top: 3cm;
 } */
-.skills-box p {
+.skills-box {
   margin:0;
   padding: 0;
 }
