@@ -812,6 +812,7 @@ textarea.form-control {
 } */
 .skills-box{
   padding: 0;
+  margin-top: 10px;
   margin-bottom: 0;
 }
 .imgContainer{
