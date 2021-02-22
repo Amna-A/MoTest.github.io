@@ -812,7 +812,7 @@ textarea.form-control {
 } */
 .skills-box{
   padding: 0;
-  margin: 0;
+  margin-bottom: 0;
 }
 .imgContainer{
   /* float:left; */
