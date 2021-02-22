@@ -804,17 +804,17 @@ textarea.form-control {
   margin-bottom: 50px;
   padding-bottom: 50px;
 } */
+.skills-box{
+  padding: auto;
+  margin: 0;
+}
 .imgContainer{
   /* float:left; */
   margin: 0;
-  padding: 2px;
+  padding-bottom: 2px;
   display: inline-block;
 }
-.skills-box .item img {
-  width: 140px;
-  height: 140px;
-  margin: 0 auto;
-}
+
 /* .imgContainer .item p {
   padding-left: 3cm;
   padding-right: 3cm;
