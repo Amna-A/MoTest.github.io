@@ -799,15 +799,16 @@ textarea.form-control {
 .skills-row {
   margin-top: 80px;
 }
-.skill-item {
+/* .skill-item {
   border-bottom: 1px solid rgba(250,250,250,0.1);
   margin-bottom: 50px;
   padding-bottom: 50px;
-}
+} */
 .imgContainer{
   float:left;
+  padding-right: 10em;
 }
-.skills-row span {
+/* .skills-row span {
   display: inline-block;
   width: 50px;
   height: 50px;
@@ -830,7 +831,7 @@ textarea.form-control {
   color: #fff;
   text-align: right;
   margin-bottom: -10px;
-}
+} */
 /* .skill-bar {
   width: 70%;
   height: 6px;
