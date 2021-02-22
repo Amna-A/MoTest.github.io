@@ -804,10 +804,10 @@ textarea.form-control {
   margin-bottom: 50px;
   padding-bottom: 50px;
 }
-.last-skill {
-  border-bottom: none;
+.imgContainer{
+  float:left;
 }
-.skills-row span {
+/* .skills-row span {
   display: inline-block;
   width: 50px;
   height: 50px;
@@ -830,8 +830,8 @@ textarea.form-control {
   color: #fff;
   text-align: right;
   margin-bottom: -10px;
-}
-.skill-bar {
+} */
+/* .skill-bar {
   width: 70%;
   height: 6px;
   border-radius: 3px;
@@ -853,4 +853,4 @@ textarea.form-control {
   height: 6px;
   background-color: #fff;
   border-radius: 3px;
-}
+} */
