@@ -532,7 +532,7 @@ a#logo {
   -webkit-transition: all 0.5s ease;
   transition: all 0.5s ease;
 }
-.service-icon a:hover{
+.service-box a:hover{
   color: rgb(250, 126, 10);
 }
 .service-icon {
