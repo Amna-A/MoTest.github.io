@@ -809,6 +809,11 @@ textarea.form-control {
   margin: 0;
   display: inline-block;
 }
+.skills-box .item img {
+  width: 140px;
+  height: 140px;
+  margin: 0 auto;
+}
 /* .imgContainer .item p {
   padding-left: 3cm;
   padding-right: 3cm;
@@ -816,7 +821,7 @@ textarea.form-control {
   padding-top: 3cm;
 } */
 .skills-box {
-  margin:0;
+  margin:0 auto;
   padding: 0;
 }
 /* .skills-row span {
