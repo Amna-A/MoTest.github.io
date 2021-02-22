@@ -805,12 +805,19 @@ textarea.form-control {
   padding-bottom: 50px;
 } */
 .imgContainer{
-  
+  /* float:left; */
   margin:12px 0;
   display: inline-block;
 }
+.imgContainer .item p,a {
+  padding-left: 10em; 
+  padding-right: 10em;
+  padding-bottom: 10em;
+  padding-top: 10em;
+}
 .skills-box :after{
   bottom: 0;
+  margin: auto;
 }
 /* .skills-row span {
   display: inline-block;
