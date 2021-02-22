@@ -386,17 +386,17 @@
 	  margin-bottom: 20px;
 	  padding-bottom: 50px;
 	}
-	/* .skills-row h6 {
+	.skills-row h6 {
 	  text-align: left;
 	  margin-bottom: 30px;
 	}
-	.skill-bar {
+	/* .skill-bar {
 	  width: 100%;
 	  height: 6px;
 	  border-radius: 3px;
 	  background-color: rgba(250,250,250,0.25);
 	  position: relative;
-	} */
+	}  */
 	.input-field {
 		margin-bottom: 15px;
 	}
